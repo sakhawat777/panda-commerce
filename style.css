@@ -19,3 +19,54 @@
 	padding: 9px 25px;
 	cursor: pointer;
 }
+.cat1,
+.cat2,
+.cat3 {
+	padding: 10px 30px;
+	border-radius: 10px;
+}
+.cat1 {
+	background-image: linear-gradient(to bottom, #ff9c35 0%, #ffd019 100%);
+}
+.cat2 {
+	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.cat3 {
+	background-image: linear-gradient(to bottom, #4289ff 0%, #07f8c3 100%);
+}
+.categories h1 {
+	color: white;
+}
+.categories img {
+	width: 100px;
+}
+.cat-header {
+	margin-bottom: 45px;
+}
+.card {
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+	background-color: white;
+	border-top: none;
+	text-align: center;
+	padding-bottom: 30px;
+}
+#subscribe {
+	height: 300px;
+}
+#subscribe h6 {
+	color: gray;
+}
+.input-text {
+	width: 300px;
+}
+footer {
+	text-align: center;
+	color: gray;
+}
+.card-body {
+	text-align: center;
+}
