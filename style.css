@@ -62,7 +62,9 @@
 }
 .input-text {
 	width: 300px;
+	text-align: center;
 }
+
 footer {
 	text-align: center;
 	color: gray;
