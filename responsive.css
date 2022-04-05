@@ -1,0 +1,48 @@
+/* 
+   ##Screen = 767px to lower resolution device
+*/
+
+@media (max-width: 768px) {
+	.container {
+		width: 100%;
+        overflow: hidden;
+	}
+    .cat1,
+.cat2,
+.cat3 {
+	margin-top: 20px;
+}
+.subscribe-content{
+  text-align: center;
+}
+#submit-btn{
+    margin-top: 10px;
+}
+}
+@media (min-width: 280px) and (max-width: 653px) {
+    .container {
+		width: 100%;
+        overflow: hidden;
+	}
+    .cat1,
+.cat2,
+.cat3 {
+	margin-top: 20px;
+}
+#subscribe{
+width: 90%;
+}
+.subscribe-content{
+  
+    width: 90%;
+}
+#submit-btn{
+    margin-top: 10px;
+}
+.input-text{
+    width: 80%;
+}
+footer{
+    text-align: center;
+}
+}
